@@ -85,7 +85,9 @@ Text and code generation models are models that generate text or code. These mod
 
 ![Text and code generation](./images/Text.png?WT.mc_id=academic-105485-koreyst)
 
-### Encoder-Decoder versus Decoder-only
+### Encoder-Decoder versus Decoder-only  
+#### encoder = who can write text
+#### decoder = who can read
 
 To talk about the different types of architectures of LLMs, let's use an analogy.
 
